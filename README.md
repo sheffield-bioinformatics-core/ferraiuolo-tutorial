@@ -1,4 +1,4 @@
-# R Tutorial for the Ferraiuolo lab, SITraN, Sheffield
+# R Tutorial for the [Ferraiuolo lab](http://sitran.org/people/dr-laura-ferraiuolo/), SITraN, University of Sheffield
 
 ## Software
 
