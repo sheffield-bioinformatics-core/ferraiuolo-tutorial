@@ -23,14 +23,11 @@ The tutorial will require 3 pieces of software to be install. Please follow the 
 
 ## Session 1
 
-- [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides)
+<!--- [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides)
 - [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
-- [Getting Started with R](part1.nb.html)
+- [Getting Started with R](part1.nb.html)-->
 
 ## Session 2
 
-- [Dealing with Data in R](part2.nb.html)
 
 ## Session 3
-
-- to be confirmed...
