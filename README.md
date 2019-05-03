@@ -12,7 +12,7 @@ The tutorial will require 3 pieces of software to be install. Please follow the 
     + [Mac](https://cran.r-project.org/bin/macosx/R-3.6.0.pkg)
 - RStudio
     + [Windows](https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe)
-    + [Mac](https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg
+    + [Mac](https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg)
     
 ## Data
 
