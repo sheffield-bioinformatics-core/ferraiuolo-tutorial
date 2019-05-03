@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## R Tutorial for the Ferraiuolo lab, SITraN, Sheffield
 
-You can use the [editor on GitHub](https://github.com/sheffield-bioinformatics-core/ferraiuolo-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Software
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The tutorial will require 3 pieces of software to be install. Please follow the links below and download each software for your operating system, and install
 
-### Markdown
+- OpenRefine
+    + [Windows](https://github.com/OpenRefine/OpenRefine/releases/download/2.8/openrefine-win-2.8.zip)
+    + [Mac](https://github.com/OpenRefine/OpenRefine/releases/download/2.8/openrefine-mac-2.8.dmg)
+- R
+    + [Windows](https://cran.r-project.org/bin/windows/base/R-3.6.0-win.exe)
+    + [Mac](https://cran.r-project.org/bin/macosx/R-3.6.0.pkg)
+- RStudio
+    + [Windows](https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe)
+    + [Mac](https://download1.rstudio.org/desktop/macos/RStudio-1.2.1335.dmg)
+# Data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Simulated patient data for data cleaning exercises
+    + [Download here](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.csv)
+- zip file for the R tutorial
+    + [Download here](http://sbc.shef.ac.uk/workshops/2019-03-29-r/CourseData.zip)
 
-```markdown
-Syntax highlighted code block
+# Session 1
 
-# Header 1
-## Header 2
-### Header 3
+- [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides)
+- [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
+- [Getting Started with R](part1.nb.html)
 
-- Bulleted
-- List
+# Session 2
 
-1. Numbered
-2. List
+- [Dealing with Data in R](part2.nb.html)
 
-**Bold** and _Italic_ and `Code` text
+# Session 3
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sheffield-bioinformatics-core/ferraiuolo-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- to be confirmed...
