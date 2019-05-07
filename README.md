@@ -19,7 +19,7 @@ The tutorial will require 3 pieces of software to be install. Please follow the 
 ## Data
 
 - Simulated patient data for data cleaning exercises
-    + [Download here](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.csv)
+    + [Download here](patient-data.csv)
 - zip file for the R tutorial
     + [Download here](http://sbc.shef.ac.uk/workshops/2019-03-29-r/CourseData.zip)
 
