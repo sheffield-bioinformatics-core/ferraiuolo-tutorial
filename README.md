@@ -31,5 +31,6 @@ The tutorial will require 3 pieces of software to be install. Please follow the 
 
 ## Session 2
 
+- [Data Manipulation and Plotting](part2.nb.html)
 
 ## Session 3
