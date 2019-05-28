@@ -34,3 +34,5 @@ The tutorial will require 3 pieces of software to be install. Please follow the 
 - [Data Manipulation and Plotting](part2.nb.html)
 
 ## Session 3
+
+- [Further plotting and summarising](part3.nb.html)
